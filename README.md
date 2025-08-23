@@ -5,7 +5,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently learning **Cloud Computing (AWS, Azure, GCP)**  
+- 🔭 Currently learning **Cloud Computing (AWS)**
+- 🎯 Build a solid foundation in Cloud Computing (AWS)
 - 🌱 Exploring **DevOps tools, Terraform, and Docker**  
 - 👯 Open to collaborating on **open-source and cloud-based projects**  
 - 📫 Reach me at: [renzorossv@gmail.com]  
