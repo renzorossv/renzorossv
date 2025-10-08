@@ -18,7 +18,7 @@
 - **Languages:** Python, Java, JavaScript, C++  
 - **Cloud:** AWS (Cloud Quest: Cloud Practitioner)  
 - **Databases:** MySQL, Firebase, DynamoDB  
-- **Tools:** Git, GitHub, Docker, VS Code, Postman
+- **Tools:** GitHub, VS Code, 
 
   
 ✨ *"Keep building, keep learning."*  
